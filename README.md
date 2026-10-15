@@ -113,5 +113,3 @@ The repository includes stimulus waveforms for individual components and integra
 ### Part 3 — Comparison Waveform
 
 ![Part 3 comparison waveform](LAB6SCREENSHOTS/ALU3waveformAhmed.png)
-
-The screenshots document the original lab simulations. The projects have not been recompiled or simulated as part of this repository upload.
